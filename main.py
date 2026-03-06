@@ -7,3 +7,4 @@ def login(username, password):
 login("admin","1234")
 print("Testing Git Stash Feature")
 print("Cherry Pick Feature")
+print("Welcome from Branch B")
